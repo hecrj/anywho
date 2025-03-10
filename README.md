@@ -2,7 +2,7 @@
 
 # anywho
 
-[![Documentation](https://docs.rs/anywho/badge.svg)][documentation]
+[![Documentation](https://docs.rs/anywho/badge.svg)](https://docs.rs/anywho)
 [![Crates.io](https://img.shields.io/crates/v/anywho.svg)](https://crates.io/crates/anywho)
 [![License](https://img.shields.io/crates/l/anywho.svg)](https://github.com/hecrj/anywho/blob/master/LICENSE)
 [![Downloads](https://img.shields.io/crates/d/anywho.svg)](https://crates.io/crates/anywho)
