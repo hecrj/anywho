@@ -1,0 +1,9 @@
+[package]
+name = "anywho"
+version = "0.1.0"
+edition = "2024"
+description = "Anyhow, but cloneable"
+license = "MIT"
+repository = "https://github.com/hecrj/anywho.git"
+
+[dependencies]
